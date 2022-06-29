@@ -1,0 +1,244 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EEE;
+}
+
+.block1 {
+    width: 1000px;
+    padding: 0 10%;
+    margin: 0 auto;
+}
+
+.nav-bar {
+    padding: 0;
+}
+
+.nav-bar a {
+    margin-left: 18%;
+    font-size: 30px;
+}
+
+.nav-bar p {
+    display: inline-block;
+    margin-right: 13.5%;
+    margin-left: 9.5%;
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding: 1px 5px;
+    background-color: #CCC;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.nav-bar>input[type="text"] {
+    width: 8%;
+    padding-left: 10px;
+
+}
+
+.block {
+    width: 230px;
+    height: auto;
+    padding: 10px;
+    background-color: #DDD;
+    display: inline-block;
+}
+
+.block>.contact1,
+.contact2 {
+    margin: 12px 0;
+}
+
+.block>.contact1 a {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 17px;
+    padding: 2px 3px;
+    background-color: white;
+}
+
+.contact2 a {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 17px;
+    padding: 2px 3px;
+    background-color: white;
+}
+
+.block>.search {
+    background-color: #CCC;
+    height: 130px;
+    margin-bottom: 10%;
+}
+
+.block>.search p {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 13px;
+    padding: 10px 0;
+}
+
+.block>.search input {
+    display: block;
+    margin-left: 13px;
+    margin-bottom: 5px;
+}
+
+.block>.search input[type="text"] {
+    width: 57%;
+}
+
+.block>.search input[type="number"] {
+    width: 40%;
+}
+
+.block>.media>a {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.block>p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 108% 0 10px 0;
+}
+
+.communtiy {
+    display: inline-block;
+    width: 230px;
+    margin-left: 1.5%;
+}
+
+.communtiy>.events p {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    padding: 4px 4px;
+    font-size: 20px;
+    margin: 0;
+}
+
+.communtiy>.events a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 1px 0;
+    padding: 1px 2px
+}
+
+.communtiy>.personal p {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    padding: 4px 4px;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+}
+
+.communtiy>.personal a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px 0;
+    padding: 1px 2px
+}
+
+.communtiy>.activites {
+    margin-top: 8%;
+}
+
+.communtiy>.activites a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px 0;
+    padding: 1px 2px
+}
+
+.communtiy>a {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 55%;
+    padding: 1px 2px
+}
+
+.houses {
+    display: inline-block;
+    width: 230px;
+    margin-left: 1.5%;
+}
+
+.houses>.apt>p {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    padding: 3px 4px;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+}
+
+.houses>.apt>a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px 0;
+    padding: 1px 2px
+}
+
+.houses>.sales>p {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    padding: 4px 4px;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+}
+
+.houses>.sales>a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px 0;
+    padding: 1px 2px
+}
+
+.houses>a {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 45%;
+    padding: 1px 2px
+}
+
+.houses>.free {
+    margin-top: 6%;
+}
+
+.jobs {
+    display: inline-block;
+    width: 230px;
+    margin-left: 1.5%;
+}
+
+.jobs p {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    padding: 4px 4px;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+}
+
+.jobs a {
+    display: block;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px 0;
+    padding: 1px 2px
+}
